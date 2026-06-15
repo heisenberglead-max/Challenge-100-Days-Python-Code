@@ -7,4 +7,6 @@ Day-2: Today is about building a tip calculator. (Learning about operators)
 
 Day-3: Today is  about conditional statements.(if/else) and  build a simple treasure hunting task. 
 
-Day-4: Today is about List and Modules(especially Random). Add a simple Rock, Paper, Scissors Game.
+Day-4: Today is about List and Modules(especially Random). Added a simple Rock, Paper, Scissors Game.
+
+Day-5: Today is about Loops in Python."Simple Password Generator"
