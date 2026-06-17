@@ -1,17 +1,17 @@
 import random
-# word_list = [
-#     "table", "chair", "window", "door", "computer", "phone", "book", "pen", "pencil", "paper",
-#     "bottle", "cup", "plate", "spoon", "fork", "knife", "clock", "watch", "wallet", "bag",
-#     "shoe", "sock", "shirt", "pants", "jacket", "hat", "key", "lock", "mirror", "comb",
-#     "brush", "soap", "towel", "bed", "pillow", "blanket", "lamp", "desk", "shelf", "couch",
-#     "television", "remote", "camera", "radio", "guitar", "piano", "drum", "ball", "bat", "bicycle",
-#     "car", "truck", "bus", "train", "airplane", "boat", "ship", "wheel", "engine", "tire",
-#     "hammer", "screwdriver", "wrench", "pliers", "saw", "nail", "screw", "drill", "ladder", "rope",
-#     "basket", "box", "bucket", "shovel", "broom", "mop", "sponge", "scissors", "tape", "glue",
-#     "candle", "match", "lighter", "pipe", "wire", "cable", "plug", "switch", "battery", "bulb",
-#     "coin", "bill", "card", "ring", "necklace", "bracelet", "earring", "glasses", "umbrella", "purse"
-# ]
-word_list = ['apple','car','door']
+word_list = [
+    "table", "chair", "window", "door", "computer", "phone", "book", "pen", "pencil", "paper",
+    "bottle", "cup", "plate", "spoon", "fork", "knife", "clock", "watch", "wallet", "bag",
+    "shoe", "sock", "shirt", "pants", "jacket", "hat", "key", "lock", "mirror", "comb",
+    "brush", "soap", "towel", "bed", "pillow", "blanket", "lamp", "desk", "shelf", "couch",
+    "television", "remote", "camera", "radio", "guitar", "piano", "drum", "ball", "bat", "bicycle",
+    "car", "truck", "bus", "train", "airplane", "boat", "ship", "wheel", "engine", "tire",
+    "hammer", "screwdriver", "wrench", "pliers", "saw", "nail", "screw", "drill", "ladder", "rope",
+    "basket", "box", "bucket", "shovel", "broom", "mop", "sponge", "scissors", "tape", "glue",
+    "candle", "match", "lighter", "pipe", "wire", "cable", "plug", "switch", "battery", "bulb",
+    "coin", "bill", "card", "ring", "necklace", "bracelet", "earring", "glasses", "umbrella", "purse"
+]
+# word_list = ['apple','car','door']
 hangman = ['''
               +---+
               |   |
